@@ -10,11 +10,7 @@ description: the homework project
 
 +-- {.row-fluid}
 
-+-- {.span3}
-&nbsp;
-=--
-
-+-- {.span8}
++-- {.span8 offset3}
 
 <blockquote>
 <p>
