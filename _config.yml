@@ -7,7 +7,7 @@ markdown: maruku
 
 # configuration required for some pages
 
-domain: homenetworks.ac.uk
+# domain: homenetworks.ac.uk
 title: Homework &ndash; user-centred home networking
 author: Richard Mortier
 email: richard.mortier@nottingham.ac.uk

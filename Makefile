@@ -28,7 +28,7 @@ site: css
 	$(JEKYLL)
 
 test: css
-	$(JEKYLL) --auto --serve
+	$(JEKYLL) --auto --serve --safe
 
 clean:
 	$(RM) -r _site css
