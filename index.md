@@ -5,7 +5,7 @@ description: the homework project
 
 +-- {.hero-unit}
 # Homework
-## home networks --- the human-centred approach
+## human-centred home networking
 =--
 
 +-- {.row-fluid}
