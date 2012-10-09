@@ -8,25 +8,26 @@ footer {
   .border-radius(6px);
 }
 
-/*
-@navbarBackground: #535353;
-@bodyBackground:   #f1f1f1;
-@textColor:        @black;
-
-@heroUnitBackground: @white;
-*/
-
 @footerBackground:   #d8d8d8;
 @navbarCollapseWidth: 767px;
+@navbarVerticalPadding: ((@navbarHeight - @baseLineHeight) / 2);
+@navbarPadding: @navbarVerticalPadding 20px @navbarVerticalPadding;
 
 ul.nav {
-  padding: ((@navbarHeight - @baseLineHeight) / 2) 20px ((@navbarHeight - @baseLineHeight) / 2);
+  padding: @navbarPadding;
 }
 
 .navbar button.btn-navbar {
-  padding: ((@navbarHeight - @baseLineHeight) / 2) 20px ((@navbarHeight - @baseLineHeight) / 2);
+  padding: @navbarPadding;
 }
 
 body {
-     background-image: url("/img/grey_2x.png");
+  background-image: url("/img/grey_2x.png");
+  padding-top: 60px;
+}
+
+@media (max-width: @navbarCollapseWidth) {
+  body {
+    padding-top: 0px;
+  }
 }
