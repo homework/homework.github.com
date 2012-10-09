@@ -19,6 +19,7 @@
         <![endif]-->
 
     <link rel="stylesheet" media="screen" href="/css/homework.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     {% if site.feedburner %}
     <link href="http://feeds.feedburner.com/{{ site.feedburner.id }}" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
@@ -40,14 +41,29 @@
   </head>
 
   <body>
-    <div class="navbar navbar-fixed-top">
+    <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="/">Homework</a>
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+
+          <a class="brand" href="/">          
+            <img class="pull-right" src="/img/homework.png" />
+          </a>
+
           <div class="nav-collapse">
             <ul class="nav">
+              <li><a href="/">Home</a></li>
+              <li><a href="/partners/">Partners</a></li>
+              <li><a href="/research/">Research</a></li>
+              <li><a href="/code/">Code</a></li>
+              <li><a href="/papers/">Papers</a></li>
             </ul>
           </div><!--/.nav-collapse -->
+
         </div>
       </div>
     </div>    
@@ -58,8 +74,9 @@
 
       <hr />
       <footer>
-          &copy; University of Nottingham 2012. powered by <a
-          href="https://github.com/mojombo/jekyll">jekyll</a>.
+        <small>
+          &copy; <a href="mailto:richard.mortier@nottingham.ac.uk">The University of Nottingham</a> 2012. Powered by <a href="https://github.com/mojombo/jekyll">jekyll</a>. 
+        </small>
       </footer>
     </div>
 
@@ -70,5 +87,7 @@
            alt="Fork me on GitHub" />
     </a>
     {% endif %}
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
   </body>
 </html>

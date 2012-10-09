@@ -7,10 +7,10 @@ markdown: maruku
 
 # configuration required for some pages
 
-domain: blog.example.com
-title: My Blog Title
-author: Me
-email: me@example.com
+domain: homenetworks.ac.uk
+title: Homework &ndash; user-centred home networking
+author: Richard Mortier
+email: richard.mortier@nottingham.ac.uk
 
 # configuration for ehancements, uncomment to enable
 

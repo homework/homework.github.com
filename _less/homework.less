@@ -1,4 +1,5 @@
 @import "bootstrap.less";
+@import "responsive.less"; // Has to be last to override when necessary
 
 footer {
   background-color: @footerBackground;
@@ -7,11 +8,25 @@ footer {
   .border-radius(6px);
 }
 
+/*
 @navbarBackground: #535353;
 @bodyBackground:   #f1f1f1;
 @textColor:        @black;
 
 @heroUnitBackground: @white;
+*/
+
 @footerBackground:   #d8d8d8;
+@navbarCollapseWidth: 767px;
 
+ul.nav {
+  padding: ((@navbarHeight - @baseLineHeight) / 2) 20px ((@navbarHeight - @baseLineHeight) / 2);
+}
 
+.navbar button.btn-navbar {
+  padding: ((@navbarHeight - @baseLineHeight) / 2) 20px ((@navbarHeight - @baseLineHeight) / 2);
+}
+
+body {
+  padding-top: 60px;
+}
