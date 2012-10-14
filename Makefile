@@ -33,5 +33,5 @@ test: css
 clean:
 	$(RM) -r _site css
 
-deploy:
+deploy: site
 	git status && git push

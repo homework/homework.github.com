@@ -17,22 +17,22 @@ If you have permission to do so, basic instructions for editing the site are:
 
 ### Prerequisites
 
-`Jekyll` (a ruby thing) and `lessc` (a node.js thing). The former builds the site and the latter rebuilds the css file -- you won't need the former if you don't wish to test your changes (_not recommended_!), and you won't need the latter if you don't touch anything under `_less` or `css`.
+`jekyll` (a ruby thing) and `lessc` (a node.js thing). The former builds the site and the latter rebuilds the css file -- you won't need the former if you don't wish to test your changes (_not recommended_!), and you won't need the latter if you don't touch anything under `_less` or `css`.
 
-On OSX Lion i install ruby via rvm <https://rvm.beginrescueend.com/> per:
+On OSX Lion I install ruby via rvm <https://rvm.beginrescueend.com/> per:
 
     bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer) 
     rvm install 1.9.3
     rvm use 1.9.3 --default
     gem install jekyll
 
-and node.js/lessc via homebrew <http://mxcl.github.com/homebrew/> per:
+and `node.js` with `lessc` via homebrew <http://mxcl.github.com/homebrew/> per:
 
     brew install node
     curl http://npmjs.org/install.sh | sh
     npm install -g less
 
-These install jekyll and lessc in the following locations:
+These install `jekyll` and `lessc` in the following locations:
 
     $ which jekyll
     /Users/user/.rvm/gems/ruby-1.9.3-p125/bin/jekyll
