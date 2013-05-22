@@ -23,10 +23,6 @@
     <link rel="stylesheet" media="screen" href="/css/homework.css" type="text/css" />
     <meta name="viewport" content="width=device-width, initial-scale=0.65">
 
-    {% if site.feedburner %}
-    <link href="http://feeds.feedburner.com/{{ site.feedburner.id }}" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
-    {% endif %}
-
     {% if site.google_analytics %}
     <!-- google analytics async -->
     <script type="text/javascript">
@@ -40,6 +36,11 @@
       })();
     </script>
     {% endif %}
+    
+    <script type="text/javascript"
+            src="{{site.baseurl}}js/jquery-1.9.1.min.js"> 
+    </script>
+  
   </head>
 
   <body>
@@ -88,14 +89,9 @@
       </footer>
     </div>
 
-    {% if site.github %}
-    <a href="http://github.com/{{ site.github.username }}">
-      <img style="position: absolute; top: 0; right: 0; border: 0;" 
-           src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" 
-           alt="Fork me on GitHub" />
-    </a>
-    {% endif %}
-    <script src="/js/jquery.js"></script>
     <script src="/js/bootstrap.js"></script>
+    {% for script in page.js %}
+        <script src="{{site.baseurl}}js/{{ script }}.js"></script>
+    {% endfor %}
   </body>
 </html>

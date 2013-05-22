@@ -18,16 +18,29 @@
 
 LESSC = lessc
 JEKYLL = jekyll
+COFFEE = coffee
+
+COFFEES = $(notdir $(wildcard _coffee/*.coffee))
+JSS = $(patsubst %.coffee,js/%.js,$(COFFEES))
+JSONS = papers/homework.json
+
+json: $(JSONS)
+papers/homework.json: papers/homework.bib
+	~/src/python-scripts.git/bib2json.py papers/homework.bib >| papers/homework.json
+
+js: $(JSS)
+js/%.js: _coffee/%.coffee
+	$(COFFEE) -c -o js $< 
 
 css: css/homework.css
 css/homework.css: $(wildcard _less/*.less)
 	mkdir -p css
 	$(LESSC) --compress _less/homework.less >| css/homework.css
 
-site: css
+site: css js
 	$(JEKYLL) build
 
-test: css
+test: css js
 	$(JEKYLL) serve --watch
 
 clean:
