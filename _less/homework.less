@@ -1,19 +1,18 @@
-@import "bootstrap.less";
-@import "responsive.less"; // Has to be last to override when necessary
+@import "mixins.less";
+@import "variables.less";
 
 .hero-unit {
   padding: 30px 45px 45px;
 }
 
 footer {
-  background-color: @footerBackground;
+  background-color: #d8d8d8;
   padding: 1ex;
   text-align: right;
   .border-radius(6px);
 }
 
-@footerBackground:   #d8d8d8;
-@navbarCollapseWidth: 767px;
+@navbarCollapseWidth: 979px;
 @navbarVerticalPadding: ((@navbarHeight - @baseLineHeight) / 2);
 @navbarPadding: @navbarVerticalPadding 20px @navbarVerticalPadding;
 
@@ -34,6 +33,11 @@ body {
   body {
     padding-top: 0px;
   }
+}
+
+
+.thumbnail > img {
+    height: 120px;
 }
 
 #tool {
