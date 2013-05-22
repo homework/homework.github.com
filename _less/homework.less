@@ -36,6 +36,46 @@ body {
   }
 }
 
+#tool {
+    font-style: italic;
+    font-weight: light;
+    font-size: 80%;
+    text-align: right;
+    float: right;
+    clear: right;
+    overflow: auto;
+}
+
+#entries {
+    overflow:auto;
+    height: auto;
+    clear: both;
+    border-left: 1px dotted #DDDDDD; 
+    border-top: 1px dotted #DDDDDD;
+}
+#entries .break {
+    clear: both;
+    width: 100%;
+    padding-top: 1ex;
+    border-bottom: 1px dotted #DDDDDD;
+
+}
+#entries .year {
+    float: left;
+    font-weight: bold;
+    font-size: 140%;
+    padding: 0.5ex 1ex 0.5ex 0.5em;
+}
+#entries .paper {
+    line-height: 110%;
+    padding: 1ex 0.5em;
+    margin: 0.5ex 0 1ex 5.5em;
+    background: #F5F5FA;
+    -moz-border-radius: 3px; 
+    -webkit-border-radius: 3px; 
+}
+#entries .paper:hover { color: #000000; background-color: #DDEEFF; }
+
 #entries .paper span.title {
     font-weight: bold;
 }

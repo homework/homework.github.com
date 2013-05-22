@@ -9,9 +9,9 @@ js: [papers]
 Publications
 ============
 
-=--
+Homework was  an inter-disciplinary research project, and so produced outputs in a wide range of venues. Good summaries of the project are to be found in [UIST 2012](#uist12) and [IM 2011](#im11).
 
-Homework was  an inter-disciplinary research project, and so produced outputs in a wide range of venues. 
+=--
 
 <div id="entries">
 Loading...
