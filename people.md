@@ -12,32 +12,47 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
 <ul class="thumbnails">
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Prof. Tom Rodden</strong> (PI)
+      <img src="/img/tar.jpg" alt="">
+      <strong>
+        <a href="http://www.cs.nott.ac.uk/~tar/">
+          Prof. Tom Rodden
+        </a></strong> (PI)
+    </div>
+  </li>
+  <li class="span2">
+    <div class="thumbnail">
+      <img src="/img/sdb.jpg" alt="">
+      <strong>
+        <a href="http://www.cs.nott.ac.uk/~sdb/">
+          Prof. Steve Benford
+        </a></strong> (CI)
+    </div>
+  </li>
+  <li class="span2">
+    <div class="thumbnail">
+      <img src="/img/cmg.jpg" alt="">
+      <strong>
+        <a href="http://www.cs.nott.ac.uk/~cmg/">
+          Prof. Chris Greenhalgh
+        </a></strong> (CI)
     </div>
   </li>
   <li class="span2">
     <div class="thumbnail">
       <img src="/img/unknown.png" alt="">
-      <strong>Prof. Steve Benford</strong> (CI)
+      <strong>
+        <a href="http://www.cs.nott.ac.uk/~axc/">
+          Dr Andrew Crabtree
+        </a></strong> (CI)
     </div>
   </li>
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Prof. Chris Greenhalgh</strong> (CI)
-    </div>
-  </li>
-  <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Dr Andrew Crabtree</strong> (CI)
-    </div>
-  </li>
-  <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Dr Richard Mortier</strong> (CI)
+      <img src="/img/mort.png" alt="">
+      <strong>
+        <a href="http://www.cs.nott.ac.uk/~rmm/">
+          Dr Richard Mortier
+        </a></strong> (CI)
     </div>
   </li>
 </ul>
@@ -45,7 +60,7 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
 <ul class="thumbnails">
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
+      <img src="/img/hazel.jpg" alt="">
       <strong>Dr Hazel Glover</strong> (Project Manager)
     </div>
   </li>
@@ -57,7 +72,7 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
   </li>
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
+      <img src="/img/txl.jpg" alt="">
       <strong>Dr Tom Lodge</strong> (Researcher)
     </div>
   </li>
@@ -95,12 +110,6 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
     <div class="thumbnail">
       <img src="/img/unknown.png" alt="">
       <strong>Dr Dimitrios Pezaros</strong> (CI)
-    </div>
-  </li>
-  <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Dr Matthew Chalmers</strong> (CI)
     </div>
   </li>
 </ul>
