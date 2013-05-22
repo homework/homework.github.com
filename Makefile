@@ -44,7 +44,7 @@ test: css js
 	$(JEKYLL) serve --watch
 
 clean:
-	$(RM) -r _site css
+	$(RM) -r _site $(JSS) css/homework.css
 
 deploy: site
 	git status && git push
