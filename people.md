@@ -1,7 +1,18 @@
 ---
 layout: page
-description: the homework project &rdquo; partners
+title: the homework project &raquo; partners
 ---
+
+...need for expertise across a broad range of fields
+...strength in interdisciplinary research
+
+# Investigators
+
+# Researchers
+
+# Partners
+
+===
 
 ### Nottingham University --- Mixed Reality Lab
 
