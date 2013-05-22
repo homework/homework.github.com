@@ -3,13 +3,13 @@ layout: hero
 description: the homework project
 ---
 
++-- {.row-fluid}
 +-- {.hero-unit}
 # Homework
 ## user-centred home networking
 =--
 
-+-- {.row-fluid}
-+-- {.span8 .offset2}
++-- {.span10 .offset1}
 
 __Homework__ investigated future networking in the home by considering the needs of the user. Study of computer network use in the home gave an empirical understanding of use, which led to a fundamental re-invention of the protocols, models and architectures of the domestic setting.
 
@@ -31,3 +31,4 @@ For more details, contact [Prof. Tom Rodden][tar].
 
 =--
 =--
+
