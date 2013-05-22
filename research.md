@@ -3,7 +3,7 @@ layout: page
 description: the homework project &rdquo; research
 ---
 
-### Research
+# Research
 
 This project brought together several disparate research traditions to develop approaches to the domestic infrastructure that enable a much more user-centred approach to its management and use at all levels. Our iterative interdisciplinary research investigation was structured around four closely related research themes:
 
