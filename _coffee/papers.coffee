@@ -160,9 +160,7 @@ papers =
           $(tgt).append div {cl:"year", id:"y-#{y}"}, y
           oy = y
 
-        $.each entries[ym], (i, e) ->
-          console.log "#{i}, #{JSON.stringify e}"
-          $(tgt).append entry e
+        $.each entries[ym], (i, e) -> $(tgt).append entry e
 
       tool = link {}, _papers.tool.url, _papers.tool.name
       $(tgt).append div {cl:"muted clearfix", id:"tool"}, 
