@@ -20,9 +20,9 @@ Over 300 million people worldwide have broadband connections to the Internet wit
 </p>
 </blockquote>
 
-The project was a research collaboration between the Universities of [Nottingham](http://nottingham.ac.uk) and [Glasgow](http://glasgow.ac.uk), [Imperial College London](http://imperial.ac.uk) and [Georgia Institute of Technology](http://gatech.edu) with industrial partners [Microsoft Research (Cambridge)](http://microsoft.com/labs/cambridge.aspx) and [BT](http://bt.com).
+The project was a research collaboration between the Universities of [Nottingham](http://nottingham.ac.uk) and [Glasgow](http://glasgow.ac.uk), [Imperial College London](http://imperial.ac.uk) and [Georgia Institute of Technology](http://gatech.edu) with industrial partners [Microsoft Research (Cambridge)](http://research.microsoft.com/en-us/labs/cambridge/default.aspx) and [BT](http://bt.com).
 
-It was funded by the [EPSRC](http://epsrc.ac.uk) under the Wired and Wireless Intelligent Networked Systems (WINES III) initiative, EP/F064276/1, with additional support from the RCUK supported [Horizon Hub](http://horizon.ac.uk), EP/G065802/1.
+It was funded by the [EPSRC](http://www.epsrc.ac.uk) under the Wired and Wireless Intelligent Networked Systems (WINES III) initiative, EP/F064276/1, with additional support from the RCUK supported [Horizon Hub](http://www.horizon.ac.uk), EP/G065802/1.
 
 <a name="contact"> </a>
 For more details, contact [Prof. Tom Rodden][tar]. 
