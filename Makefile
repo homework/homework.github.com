@@ -25,10 +25,10 @@ css/homework.css: $(wildcard _less/*.less)
 	$(LESSC) --compress _less/homework.less >| css/homework.css
 
 site: css
-	$(JEKYLL)
+	$(JEKYLL) build
 
 test: css
-	$(JEKYLL) --auto --serve --safe
+	$(JEKYLL) serve --watch
 
 clean:
 	$(RM) -r _site css

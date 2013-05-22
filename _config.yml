@@ -1,27 +1,11 @@
-# standard jekyll configuration
-
-permalink: date
-pygments: true
-exclude: ['Makefile', 'README.md', '_ignore']
+permalink: pretty
+exclude: ['Makefile', 'README.md', '_ignore', '_less']
 markdown: maruku
 
-# configuration required for some pages
-
-# domain: homenetworks.ac.uk
+domain: homenetworks.ac.uk
 title: Homework &ndash; user-centred home networking
 author: Richard Mortier
 email: richard.mortier@nottingham.ac.uk
 
-# configuration for ehancements, uncomment to enable
-
-# feedburner:
-#   id: feedburnerid
-
 google_analytics:
   account: UA-35397059-1
-
-# github:
-#   username: ghusername
-
-# disqus:
-#   id: disqusid
