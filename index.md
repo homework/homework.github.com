@@ -9,8 +9,10 @@ description: the homework project
 =--
 
 +-- {.row-fluid}
-
 +-- {.span8 .offset2}
+
+__Homework__ investigated future networking in the home by considering the needs of the user. Study of computer network use in the home gave an empirical understanding of use, which led to a fundamental re-invention of the protocols, models and architectures of the domestic setting.
+
 
 <blockquote>
 <p>
@@ -18,12 +20,12 @@ Over 300 million people worldwide have broadband connections to the Internet wit
 </p>
 </blockquote>
 
-The Homework Research Project is a collaboration between the Universities of Nottingham and Glasgow, Imperial College London and Georgia Institute of Technology with industrial partners Microsoft Research (Cambridge) and BT. With funding from the Engineering and Physical Sciences Research Council (EPSRC) under the Wired and Wireless Intelligent Networked Systems (WINES III) initiative, the project aims to investigate the creation of entirely new network architectures which take into account both human and technical considerations.
+The project was a research collaboration between the Universities of [Nottingham](http://nottingham.ac.uk) and [Glasgow](http://glasgow.ac.uk), [Imperial College London](http://imperial.ac.uk) and [Georgia Institute of Technology](http://gatech.edu) with industrial partners [Microsoft Research (Cambridge)](http://microsoft.com/labs/cambridge.aspx) and [BT](http://bt.com).
 
-The research challenge for the Homework Project is to take a radical approach to future networking in the home by considering the needs of the user. By studying the use of computer networks in the home, it is intended to create the next generation of domestic infrastructure that combines empirical understanding of use with a fundamental re-invention of the protocols, models and architectures of the domestic setting. The challenge is to develop techniques and tools that inform users of the implications of network changes in terms that they readily understand, aiming to develop an infrastructure that can configure and repair itself.
+It was funded by the [EPSRC](http://epsrc.ac.uk) under the Wired and Wireless Intelligent Networked Systems (WINES III) initiative, EP/F064276/1, with additional support from the RCUK supported [Horizon Hub](http://horizon.ac.uk), EP/G065802/1.
 
 <a name="contact"> </a>
-For more project details, contact [Prof. Tom Rodden][tar]. 
+For more details, contact [Prof. Tom Rodden][tar]. 
 
 [tar]: mailto:tom.rodden@nottingham.ac.uk
 
