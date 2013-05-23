@@ -3,16 +3,13 @@ layout: hero
 description: the homework project
 ---
 
-+-- {.row-fluid}
 +-- {.hero-unit}
 # Homework
 ## user-centred home networking
 =--
 
 +-- {.span10 .offset1}
-
 __Homework__ investigated future networking in the home by considering the needs of the user. Study of computer network use in the home gave an empirical understanding of use, which led to a fundamental re-invention of the protocols, models and architectures of the domestic setting.
-
 
 <blockquote>
 <p>
@@ -28,7 +25,51 @@ It was funded by the [EPSRC](http://www.epsrc.ac.uk) under the Wired and Wireles
 For more details, contact [Prof. Tom Rodden][tar]. 
 
 [tar]: mailto:tom.rodden@nottingham.ac.uk
-
-=--
 =--
 
++-- {.span12 .logos}
+<ul class="thumbnails">
+  <li class="span2">
+    <div class="thumbnail">
+      <a href="http://www.mrl.nottingham.ac.uk/">
+        <img src="/img/uon.png" alt="">
+      </a>
+    </div>
+  </li>
+  <li class="span2">
+    <div class="thumbnail">
+      <a href="http://www.mrl.nottingham.ac.uk/">
+        <img src="/img/bt.png" alt="">
+      </a>
+    </div>
+  </li>
+  <li class="span2">
+    <div class="thumbnail">
+      <a href="http://www.mrl.nottingham.ac.uk/">
+        <img src="/img/gatech.png" alt="">
+      </a>
+    </div>
+  </li>
+  <li class="span2">
+    <div class="thumbnail">
+      <a href="http://www.mrl.nottingham.ac.uk/">
+        <img src="/img/glasgow.png" alt="">
+      </a>
+    </div>
+  </li>
+  <li class="span2">
+    <div class="thumbnail">
+      <a href="http://www.mrl.nottingham.ac.uk/">
+        <img src="/img/imperial.png" alt="">
+      </a>
+    </div>
+  </li>
+  <li class="span2">
+    <div class="thumbnail">
+      <a href="http://www.mrl.nottingham.ac.uk/">
+        <img src="/img/microsoft.png" alt="">
+      </a>
+    </div>
+  </li>
+</ul>
+=--
