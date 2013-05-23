@@ -64,22 +64,28 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
 
 <ul class="thumbnails">
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/hazel.jpg" alt="">
-      <strong>Dr Hazel Glover</strong> (Project Manager)
-    </div>
+    <a href="http://www.mrl.nott.ac.uk/~hazel/">
+      <div class="thumbnail">
+        <img src="/img/hazel.jpg" alt="">
+        <strong>Dr Hazel Glover</strong> (Project Manager)
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Dr Peter Tolmie</strong> (Researcher)
-    </div>
+    <a href="http://www.mrl.nott.ac.uk/people/151-dr-peter-tolmie.html">
+      <div class="thumbnail">
+        <img src="/img/unknown.png" alt="">
+        <strong>Dr Peter Tolmie</strong> (Researcher)
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/txl.jpg" alt="">
-      <strong>Dr Tom Lodge</strong> (Researcher)
-    </div>
+    <a href="http://www.cs.nott.ac.uk/~txl/">
+      <div class="thumbnail">
+        <img src="/img/txl.jpg" alt="">
+        <strong>Dr Tom Lodge</strong> (Researcher)
+      </div>
+    </a>
   </li>
   <li class="span2">
     <div class="thumbnail">
@@ -147,22 +153,26 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
       <div class="thumbnail">
         <img src="/img/unknown.png" alt="">
         <strong>
-          Michele Sevegnani
+          Dr Michele Sevegnani
         </strong> (Researcher)
       </div>
     </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Dr Oliver Sharma</strong> (Researcher)
-    </div>
+    <a href="http://www.dcs.gla.ac.uk/~oliver/">
+      <div class="thumbnail">
+        <img src="/img/unknown.png" alt="">
+        <strong>Dr Oliver Sharma</strong> (Researcher)
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Scott Sherwood</strong> (Researcher)
-    </div>
+    <a href="http://www.dcs.gla.ac.uk/~sherwood/">
+      <div class="thumbnail">
+        <img src="/img/unknown.png" alt="">
+        <strong>Dr Scott Sherwood</strong> (Researcher)
+      </div>
+    </a>
   </li>
 </ul>
 
@@ -190,10 +200,12 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
     </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Dr Emil Lupu</strong> (CI)
-    </div>
+    <a href="http://www3.imperial.ac.uk/people/e.c.lupu">
+      <div class="thumbnail">
+        <img src="/img/unknown.png" alt="">
+        <strong>Dr Emil Lupu</strong> (CI)
+      </div>
+    </a>
   </li>
 </ul>
 
