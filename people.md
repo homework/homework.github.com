@@ -11,49 +11,54 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
 
 <ul class="thumbnails">
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/tar.jpg" alt="">
-      <strong>
-        <a href="http://www.cs.nott.ac.uk/~tar/">
+    <a href="http://www.cs.nott.ac.uk/~tar/">
+      <div class="thumbnail">
+        <img src="/img/tar.jpg" alt="">
+        <strong>
           Prof. Tom Rodden
-        </a></strong> (PI)
-    </div>
+        </strong> (PI)
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/sdb.jpg" alt="">
-      <strong>
-        <a href="http://www.cs.nott.ac.uk/~sdb/">
+    <a href="http://www.cs.nott.ac.uk/~sdb/">
+      <div class="thumbnail">
+        <img src="/img/sdb.jpg" alt="">
+        <strong>
           Prof. Steve Benford
-        </a></strong> (CI)
-    </div>
+        </strong> (CI)
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/cmg.jpg" alt="">
-      <strong>
-        <a href="http://www.cs.nott.ac.uk/~cmg/">
+    <a href="http://www.cs.nott.ac.uk/~cmg/">
+      <div class="thumbnail">
+        <img src="/img/cmg.jpg" alt="">
+        <strong>
           Prof. Chris Greenhalgh
-        </a></strong> (CI)
-    </div>
+        </strong> (CI)
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>
-        <a href="http://www.cs.nott.ac.uk/~axc/">
+    <a href="http://www.cs.nott.ac.uk/~axc/">
+      <div class="thumbnail">
+        <img src="/img/unknown.png" alt="">
+        <strong>
           Dr Andrew Crabtree
-        </a></strong> (CI)
-    </div>
+        </strong> (CI)
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/mort.png" alt="">
-      <strong>
-        <a href="http://www.cs.nott.ac.uk/~rmm/">
+    <a href="http://www.cs.nott.ac.uk/~rmm/">
+      <div class="thumbnail">
+        <img src="/img/mort.png" alt="">
+        <strong>
           Dr Richard Mortier
-        </a></strong> (CI)
-    </div>
+        </strong> (CI)
+      </div>
+    </a>
   </li>
 </ul>
 
@@ -89,40 +94,44 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
 
 <ul class="thumbnails">
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/joe.jpg" alt="">
-      <strong>
-      <a href="http://www.dcs.gla.ac.uk/~joe/">
-        Prof. Joseph Sventek
-      </a></strong> (PI)
-    </div>
+    <a href="http://www.dcs.gla.ac.uk/~joe/">
+      <div class="thumbnail">
+        <img src="/img/joe.jpg" alt="">
+        <strong>
+          Prof. Joseph Sventek
+        </strong> (PI)
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/muffy.jpg" alt="">
-      <strong>
-        <a href="http://www.dcs.gla.ac.uk/~muffy/">
+    <a href="http://www.dcs.gla.ac.uk/~muffy/">
+      <div class="thumbnail">
+        <img src="/img/muffy.jpg" alt="">
+        <strong>
           Prof. Muffy Calder
-        </a></strong> (CI)
-    </div>
+        </strong> (CI)
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/chalmers.png" alt="">
-      <strong>
-        <a href="http://www.dcs.gla.ac.uk/~matthew/DCS/Home.html">
+    <a href="http://www.dcs.gla.ac.uk/~matthew/DCS/Home.html">
+      <div class="thumbnail">
+        <img src="/img/chalmers.png" alt="">
+        <strong>
           Dr Matthew Chalmers
-        </a></strong> (CI)
-    </div>
+        </strong> (CI)
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/dimitrios.jpg" alt="">
-      <strong>
-        <a href="http://www.dcs.gla.ac.uk/~dp/">
+    <a href="http://www.dcs.gla.ac.uk/~dp/">
+      <div class="thumbnail">
+        <img src="/img/dimitrios.jpg" alt="">
+        <strong>
           Dr Dimitrios Pezaros
-        </a></strong> (CI)
-    </div>
+        </strong> (CI)
+      </div>
+    </a>
   </li>
 </ul>
 
@@ -134,13 +143,14 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
     </div>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>
-        <a href="http://www.dcs.gla.ac.uk/~michele/">
+    <a href="http://www.dcs.gla.ac.uk/~michele/">
+      <div class="thumbnail">
+        <img src="/img/unknown.png" alt="">
+        <strong>
           Michele Sevegnani
-        </a></strong> (Researcher)
-    </div>
+        </strong> (Researcher)
+      </div>
+    </a>
   </li>
   <li class="span2">
     <div class="thumbnail">
@@ -160,22 +170,24 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
 
 <ul class="thumbnails">
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/naranker.jpg" alt="">
-      <strong>
-        <a href="http://www-dse.doc.ic.ac.uk/cgi-bin/moin.cgi/nd">
+    <a href="http://www-dse.doc.ic.ac.uk/cgi-bin/moin.cgi/nd">
+      <div class="thumbnail">
+        <img src="/img/naranker.jpg" alt="">
+        <strong>
           Dr Naranker Dulay
-        </a></strong> (PI)
-    </div>
+        </strong> (PI)
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/morris.jpg" alt="">
-      <strong>
-        <a href="http://www-dse.doc.ic.ac.uk/cgi-bin/moin.cgi/mss">
+    <a href="http://www-dse.doc.ic.ac.uk/cgi-bin/moin.cgi/mss">
+      <div class="thumbnail">
+        <img src="/img/morris.jpg" alt="">
+        <strong>
           Prof. Morris Sloman
-        </a></strong> (CI)
-    </div>
+        </strong> (CI)
+      </div>
+    </a>
   </li>
   <li class="span2">
     <div class="thumbnail">
@@ -193,13 +205,14 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
     </div>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/dimos.jpg" alt="">
-      <strong>
-        <a href="http://www.doc.ic.ac.uk/~dpediadi/">
+    <a href="http://www.doc.ic.ac.uk/~dpediadi/">
+      <div class="thumbnail">
+        <img src="/img/dimos.jpg" alt="">
+        <strong>
           Dimosthenis Pediaditakis
-        </a></strong> (Researcher)
-    </div>
+        </strong> (Researcher)
+      </div>
+    </a>
   </li>
 </ul>
 
@@ -207,63 +220,69 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
 
 <ul class="thumbnails">
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/keith.jpg" alt="">
-      <strong>
-        <a href="http://www.cc.gatech.edu/~keith/">
+    <a href="http://www.cc.gatech.edu/~keith/">
+      <div class="thumbnail">
+        <img src="/img/keith.jpg" alt="">
+        <strong>
           Prof. W Keith Edwards
-        </a></strong>
-      GATech
-    </div>
+        </strong>
+        GATech
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/beki.jpg" alt="">
-      <strong>
-        <a href="http://www.cc.gatech.edu/~beki/Beki.html">
+    <a href="http://www.cc.gatech.edu/~beki/Beki.html">
+      <div class="thumbnail">
+        <img src="/img/beki.jpg" alt="">
+        <strong>
           Prof. Rebecca E. Grinter
-          </a></strong>
-      GATech
-    </div>
+        </strong>
+        GATech
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/ken.jpg" alt="">
-      <strong>
-        <a href="http://research.microsoft.com/en-us/people/krw/">
-        Ken Wood
-        </a></strong>
-      MSR Cambridge
-    </div>
+    <a href="http://research.microsoft.com/en-us/people/krw/">
+      <div class="thumbnail">
+        <img src="/img/ken.jpg" alt="">
+        <strong>
+          Ken Wood
+        </strong>
+        MSR Cambridge
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/tim.jpg" alt="">
-      <strong>
-        <a href="http://research.microsoft.com/en-us/people/timregan/">
+    <a href="http://research.microsoft.com/en-us/people/timregan/">
+      <div class="thumbnail">
+        <img src="/img/tim.jpg" alt="">
+        <strong>
           Tim Regan
-          </a></strong>
-      MSR Cambridge
-    </div>
+        </strong>
+        MSR Cambridge
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/seton.jpg" alt="">
-      <strong>
-        <a href="http://uk.linkedin.com/pub/john-seton/14/bb4/b03">
+    <a href="http://uk.linkedin.com/pub/john-seton/14/bb4/b03">
+      <div class="thumbnail">
+        <img src="/img/seton.jpg" alt="">
+        <strong>
           John Seton
-          </a></strong>
-      BT
-    </div>
+        </strong>
+        BT
+      </div>
+    </a>
   </li>
   <li class="span2">
-    <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>
-        <a href="http://uk.linkedin.com/in/sorbus">
+    <a href="http://uk.linkedin.com/in/sorbus">
+      <div class="thumbnail">
+        <img src="/img/unknown.png" alt="">
+        <strong>
           Rowan Limb
-          </a></strong>
-      BT
-    </div>
+        </strong>
+        BT
+      </div>
+    </a>
   </li>
 </ul>
