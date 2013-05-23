@@ -90,26 +90,38 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
 <ul class="thumbnails">
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Prof. Joseph Sventek</strong> (PI)
+      <img src="/img/joe.jpg" alt="">
+      <strong>
+      <a href="http://www.dcs.gla.ac.uk/~joe/">
+        Prof. Joseph Sventek
+      </a></strong> (PI)
     </div>
   </li>
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Prof. Muffy Calder</strong> (CI)
+      <img src="/img/muffy.jpg" alt="">
+      <strong>
+        <a href="http://www.dcs.gla.ac.uk/~muffy/">
+          Prof. Muffy Calder
+        </a></strong> (CI)
     </div>
   </li>
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Dr Matthew Chalmers</strong> (CI)
+      <img src="/img/chalmers.png" alt="">
+      <strong>
+        <a href="http://www.dcs.gla.ac.uk/~matthew/DCS/Home.html">
+          Dr Matthew Chalmers
+        </a></strong> (CI)
     </div>
   </li>
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Dr Dimitrios Pezaros</strong> (CI)
+      <img src="/img/dimitrios.jpg" alt="">
+      <strong>
+        <a href="http://www.dcs.gla.ac.uk/~dp/">
+          Dr Dimitrios Pezaros
+        </a></strong> (CI)
     </div>
   </li>
 </ul>
