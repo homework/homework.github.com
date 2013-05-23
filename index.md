@@ -27,7 +27,7 @@ For more details, contact [Prof. Tom Rodden][tar].
 [tar]: mailto:tom.rodden@nottingham.ac.uk
 =--
 
-+-- {.span12 .logos}
++-- {.span10 .offset1 .logos}
 <ul class="thumbnails">
   <li class="span2">
     <div class="thumbnail">
