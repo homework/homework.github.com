@@ -136,7 +136,10 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
   <li class="span2">
     <div class="thumbnail">
       <img src="/img/unknown.png" alt="">
-      <strong>Michele Sevegnani</strong> (Researcher)
+      <strong>
+        <a href="http://www.dcs.gla.ac.uk/~michele/">
+          Michele Sevegnani
+        </a></strong> (Researcher)
     </div>
   </li>
   <li class="span2">
@@ -158,14 +161,20 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
 <ul class="thumbnails">
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Dr Naranker Dulay</strong> (PI)
+      <img src="/img/naranker.jpg" alt="">
+      <strong>
+        <a href="http://www-dse.doc.ic.ac.uk/cgi-bin/moin.cgi/nd">
+          Dr Naranker Dulay
+        </a></strong> (PI)
     </div>
   </li>
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Prof. Morris Sloman</strong> (CI)
+      <img src="/img/morris.jpg" alt="">
+      <strong>
+        <a href="http://www-dse.doc.ic.ac.uk/cgi-bin/moin.cgi/mss">
+          Prof. Morris Sloman
+        </a></strong> (CI)
     </div>
   </li>
   <li class="span2">
@@ -185,8 +194,11 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
   </li>
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Dimosthenis Pediaditakis</strong> (Researcher)
+      <img src="/img/dimos.jpg" alt="">
+      <strong>
+        <a href="http://www.doc.ic.ac.uk/~dpediadi/">
+          Dimosthenis Pediaditakis
+        </a></strong> (Researcher)
     </div>
   </li>
 </ul>
@@ -196,43 +208,61 @@ Such a fundamental re-examination of infrastructure required drawing on a broad 
 <ul class="thumbnails">
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Prof. W Keith Edwards</strong>
+      <img src="/img/keith.jpg" alt="">
+      <strong>
+        <a href="http://www.cc.gatech.edu/~keith/">
+          Prof. W Keith Edwards
+        </a></strong>
       GATech
     </div>
   </li>
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Prof. Rebecca E. Grinter</strong>
+      <img src="/img/beki.jpg" alt="">
+      <strong>
+        <a href="http://www.cc.gatech.edu/~beki/Beki.html">
+          Prof. Rebecca E. Grinter
+          </a></strong>
       GATech
     </div>
   </li>
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Ken Wood</strong>
+      <img src="/img/ken.jpg" alt="">
+      <strong>
+        <a href="http://research.microsoft.com/en-us/people/krw/">
+        Ken Wood
+        </a></strong>
       MSR Cambridge
     </div>
   </li>
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>Tim Regan</strong>
+      <img src="/img/tim.jpg" alt="">
+      <strong>
+        <a href="http://research.microsoft.com/en-us/people/timregan/">
+          Tim Regan
+          </a></strong>
       MSR Cambridge
     </div>
   </li>
   <li class="span2">
     <div class="thumbnail">
-      <img src="/img/unknown.png" alt="">
-      <strong>John Seton</strong>
+      <img src="/img/seton.jpg" alt="">
+      <strong>
+        <a href="http://uk.linkedin.com/pub/john-seton/14/bb4/b03">
+          John Seton
+          </a></strong>
       BT
     </div>
   </li>
   <li class="span2">
     <div class="thumbnail">
       <img src="/img/unknown.png" alt="">
-      <strong>Rowan Limb</strong>
+      <strong>
+        <a href="http://uk.linkedin.com/in/sorbus">
+          Rowan Limb
+          </a></strong>
       BT
     </div>
   </li>
