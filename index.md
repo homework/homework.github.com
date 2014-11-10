@@ -4,9 +4,11 @@ description: the homework project
 ---
 
 <div class="hero-unit" markdown="1">
+
   # Homework
 
   ## user-centred home networking
+
 </div>
 
 <div class="span10 offset1" markdown="1">
