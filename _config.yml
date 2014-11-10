@@ -1,6 +1,5 @@
 permalink: pretty
 exclude: ['Makefile', 'README.md', '_ignore', '_less']
-markdown: maruku
 
 domain: homenetworks.ac.uk
 title: Homework &ndash; user-centred home networking

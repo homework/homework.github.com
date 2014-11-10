@@ -14,19 +14,19 @@
 
     <meta name="author" content="{{ site.author }}" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    
+
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" media="screen" type="text/css" 
+    <link rel="stylesheet" media="screen" type="text/css"
           href="/css/bootstrap.min.css" />
-    <link rel="stylesheet" media="screen" type="text/css" 
+    <link rel="stylesheet" media="screen" type="text/css"
           href="/css/bootstrap-responsive.min.css" />
-    <link rel="stylesheet" media="screen" type="text/css" 
+    <link rel="stylesheet" media="screen" type="text/css"
           href="/css/homework.css" />
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=0.65">
 
     {% if site.google_analytics %}
@@ -42,11 +42,11 @@
       })();
     </script>
     {% endif %}
-    
+
     <script type="text/javascript"
-            src="{{site.baseurl}}js/jquery-1.9.1.min.js"> 
+            src="{{site.baseurl}}/js/jquery-1.9.1.min.js">
     </script>
-  
+
   </head>
 
   <body>
@@ -59,7 +59,7 @@
             <span class="icon-bar"></span>
           </button>
 
-          <a class="brand" href="/">          
+          <a class="brand" href="/">
             <img class="pull-right" src="/img/homework.png" />
           </a>
 
@@ -75,19 +75,19 @@
 
         </div>
       </div>
-    </div>    
+    </div>
 
     <div class="container-fluid">
 
       {{ content }}
-          
+
       <footer>
         <small>
-          &copy; 
+          &copy;
           <a href="mailto:richard.mortier@nottingham.ac.uk">
             The University of Nottingham
           </a>
-          2012. Powered by 
+          2012. Powered by
           <a href="https://github.com/mojombo/jekyll">jekyll</a>,
           hosted by <a href="https://github.com/">github</a>.
         </small>
@@ -96,7 +96,7 @@
 
     <script src="/js/bootstrap.min.js"></script>
     {% for script in page.js %}
-        <script src="{{site.baseurl}}js/{{ script }}.js"></script>
+        <script src="{{site.baseurl}}/js/{{ script }}.js"></script>
     {% endfor %}
   </body>
 </html>
